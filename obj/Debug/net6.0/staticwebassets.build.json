@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "orF3vLKNbH735cj1ruo+POI1V5keVf5C3gHcc/QxW3k=",
+  "Source": "DutchTreat",
+  "BasePath": "_content/DutchTreat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DutchTreat\\wwwroot",
+      "Source": "DutchTreat",
+      "ContentRoot": "C:\\education-and-training\\DutchTreat\\wwwroot\\",
+      "BasePath": "_content/DutchTreat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\education-and-training\\DutchTreat\\wwwroot\\index.html",
+      "SourceId": "DutchTreat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\education-and-training\\DutchTreat\\wwwroot\\",
+      "BasePath": "_content/DutchTreat",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
