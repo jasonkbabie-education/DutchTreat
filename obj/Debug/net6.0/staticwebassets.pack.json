@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "C:\\education-and-training\\DutchTreat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\education-and-training\\DutchTreat\\wwwroot\\img\\VanGogh.jpg",
+      "PackagePath": "staticwebassets\\img\\VanGogh.jpg"
+    },
+    {
       "Id": "C:\\education-and-training\\DutchTreat\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
