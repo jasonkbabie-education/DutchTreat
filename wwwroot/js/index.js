@@ -1,7 +1,3 @@
-console.log("Hi there!");
-var theForm = $("#theForm");
-alert("Deleting the form?");
-theForm.hide();
 var productInfo = $(".product-props li");
 
 productInfo.on("click", function () {
