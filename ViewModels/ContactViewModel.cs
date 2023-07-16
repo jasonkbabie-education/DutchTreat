@@ -11,8 +11,9 @@ namespace DutchTreat.ViewModels
         public string Email { get; set; }
 
         public string Subject { get; set; }
+
         [Required]
-        [MaxLength(100, ErrorMessage = "This message is too long. It needs to be 100 characters max")]
+        [MaxLength(250)]
         public string Message { get; set; }
 
     }

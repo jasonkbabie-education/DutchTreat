@@ -26,8 +26,15 @@ using DutchTreat.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\education-and-training\DutchTreat\Views\_ViewImports.cshtml"
+using DutchTreat.Data.Entities;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"bc22882919a087ebaab9e931e7f9fd9124daa018", @"/Views/App/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"db65c12fc4ade8e73f73cdc1281eafb6be26035f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"402ff29ed5304f90d7247425045b59e26db665d3", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_App_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -69,7 +76,7 @@ using DutchTreat.ViewModels;
 #line hidden
 #nullable disable
             WriteLiteral("<div class=\"row\">\r\n    <div class=\"col-md-3\">\r\n        <div class=\"product-info\">\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "bc22882919a087ebaab9e931e7f9fd9124daa0184355", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "bc22882919a087ebaab9e931e7f9fd9124daa0184531", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -94,7 +101,7 @@ using DutchTreat.ViewModels;
         </div>
 
         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc22882919a087ebaab9e931e7f9fd9124daa0185744", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc22882919a087ebaab9e931e7f9fd9124daa0185920", async() => {
                 WriteLiteral(@"
             <label>Name:</label>
             <br />
